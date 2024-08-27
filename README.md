@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Calculator</title>
+<title>Calculator</title><br />
 <style>
 html{
     background-image: url("https://shorturl.at/Yzu8L");
