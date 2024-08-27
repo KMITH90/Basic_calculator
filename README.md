@@ -6,13 +6,13 @@
 <style>
 html{
     background-image: url("https://shorturl.at/Yzu8L");
-}
+}<br />
 body{
     place-items: center;
     display: grid;
     background-image: url("https://shorturl.at/hjsuN");
     background-size: cover;
-}
+}<br />
 table{
     border-style: outset;
     padding: 0%;
@@ -20,7 +20,7 @@ table{
     border-width: 10px;
     border-color: rgb(113, 2, 113);
     background-color:rgb(255, 255, 255);
-}
+}<br />
 input[type="button"] {
         width: 50px;
         height: 30px;
@@ -28,19 +28,19 @@ input[type="button"] {
         color: white ;
         background-color: rgb(113, 2, 113);
         border-radius: 3px;
- }
+ }<br />
  input[type="text"]{
     border-style:inset;
     background-color:rgb(229, 200, 255);
     border-radius: 5px;
     height: 30px;
     width: 230px;
- }
+ }<br />
  h1{
     font-style:oblique;
   color: rgb(81, 12, 95);
   text-align: center;
- }
+ }<br />
 </style>
 </head>
 <body>
